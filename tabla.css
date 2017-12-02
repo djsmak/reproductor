@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tbl1 {text-align:left;border-collapse: collapse;}
+.tbl1 tr td, .tbl1 tr th {border:1px solid #c3c3c3; padding:3px;}
+.tbl1 tr td {background-color: #EAEAEA; font-size: 14px; color: #000000;}
+.tbl1 tr.hi td {background-color: #F3F3F3;}
+.tbl1 tr:hover td {background-color: #E9F0FF;}
+.tbl1 tr td.pub {background-color: #E0FFE0;}
+.tbl1 tr.hdr td, .tbl1 th, .hdr {background-color:#d9d9d9; font-weight: bold; text-align:center;}
+
+.tbl1 tr.hi2 td {background-color: #D9ECFF;}
